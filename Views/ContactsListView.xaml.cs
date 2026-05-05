@@ -15,9 +15,6 @@ using System.Windows.Shapes;
 
 namespace PhoneBook10.Views
 {
-    /// <summary>
-    /// Логика взаимодействия для ContactsListView.xaml
-    /// </summary>
     public partial class ContactsListView : UserControl
     {
         public ContactsListView()
